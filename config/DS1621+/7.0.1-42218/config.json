@@ -1,7 +1,7 @@
 {
   "os": {
     "id": "ds1621p_42218",
-    "pat_url": "https://cndl.synology.cn/download/DSM/release/7.0.1/42218/DSM_DS1621%2B_42218.pat",
+    "pat_url": "https://global.download.synology.com/download/DSM/release/7.0.1/42218/DSM_DS1621%2B_42218.pat",
     "sha256": "19f56827ba8bf0397d42cd1d6f83c447f092c2c1bbb70d8a2ad3fbd427e866df"
   },
 
