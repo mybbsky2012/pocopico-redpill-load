@@ -4,18 +4,21 @@
   "info": {
     "name": "Device tree binary",
     "description": "Create your own device tree binary",
-    "author_url": "https://gitee.com/gebi1/jumkey-redpill-load/redpill-load/raw/develop/redpill-dtb",
-    "packer_url": "https://gitee.com/gebi1/jumkey-redpill-load/raw/develop/redpill-dtb",
-    "help_url": "https://gitee.com/gebi1/jumkey-redpill-load/raw/develop/redpill-dtb"
+    "author_url": "https://github.com/jumkey/redpill-load/raw/develop/redpill-dtb",
+    "packer_url": "https://github.com/jumkey/redpill-load/raw/develop/redpill-dtb",
+    "help_url": "https://github.com/jumkey/redpill-load/raw/develop/redpill-dtb"
   },
   "releases": {
+    "ds920p_42951": "https://gitee.com/gebi1/pocopico-redpill-load/raw/develop/redpill-dtb/recipes/universal.json",
     "ds920p_42218": "https://gitee.com/gebi1/pocopico-redpill-load/raw/develop/redpill-dtb/recipes/universal.json",
     "ds920p_42550": "https://gitee.com/gebi1/pocopico-redpill-load/raw/develop/redpill-dtb/recipes/universal.json",
     "ds920p_42621": "https://gitee.com/gebi1/pocopico-redpill-load/raw/develop/redpill-dtb/recipes/universal.json",
     "ds920p_42661": "https://gitee.com/gebi1/pocopico-redpill-load/raw/develop/redpill-dtb/recipes/universal.json",
+    "ds1621p_42951": "https://gitee.com/gebi1/pocopico-redpill-load/raw/develop/redpill-dtb/recipes/universal.json",
     "ds1621p_42218": "https://gitee.com/gebi1/pocopico-redpill-load/raw/develop/redpill-dtb/recipes/universal.json",
     "ds1621p_42621": "https://gitee.com/gebi1/pocopico-redpill-load/raw/develop/redpill-dtb/recipes/universal.json",
     "ds1621p_42661": "https://gitee.com/gebi1/pocopico-redpill-load/raw/develop/redpill-dtb/recipes/universal.json",
+    "ds2422p_42951": "https://gitee.com/gebi1/pocopico-redpill-load/raw/develop/redpill-dtb/recipes/universal.json",
     "ds2422p_42218": "https://gitee.com/gebi1/pocopico-redpill-load/raw/develop/redpill-dtb/recipes/universal.json",
     "ds2422p_42621": "https://gitee.com/gebi1/pocopico-redpill-load/raw/develop/redpill-dtb/recipes/universal.json",
     "ds2422p_42661": "https://gitee.com/gebi1/pocopico-redpill-load/raw/develop/redpill-dtb/recipes/universal.json"
